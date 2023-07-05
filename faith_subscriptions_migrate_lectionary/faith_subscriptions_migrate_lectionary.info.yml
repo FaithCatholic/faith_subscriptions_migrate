@@ -1,0 +1,8 @@
+name: Faith Subscriptions Migrate Lectionary
+type: module
+description: Provides additional functionality for the site.
+package: Faith subscriptions migrate
+core_version_requirement: ^9 || ^10
+dependencies:
+  - faithcatholic:faith_subscriptions_lectionary
+  - faithcatholic:faith_subscriptions_migrate

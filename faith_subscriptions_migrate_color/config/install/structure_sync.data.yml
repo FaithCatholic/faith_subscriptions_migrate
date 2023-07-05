@@ -1,0 +1,52 @@
+taxonomies:
+  colors:
+    -
+      vid: colors
+      tid: '3'
+      langcode: en
+      name: Green
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 586b8230-3da8-415a-b4c4-c74a3ed7b062
+    -
+      vid: colors
+      tid: '1'
+      langcode: en
+      name: Red
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3bd454f4-6925-4193-a4b5-7bf7cacd83c6
+    -
+      vid: colors
+      tid: '4'
+      langcode: en
+      name: Rose
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4653caee-5620-4e8c-a7b0-4760e1302c9e
+    -
+      vid: colors
+      tid: '5'
+      langcode: en
+      name: Violet
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: faadcd88-2ab7-43e2-926e-b43692c5f17a
+    -
+      vid: colors
+      tid: '2'
+      langcode: en
+      name: White
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d57c0493-d3b3-4dc3-8240-f6ce780a6089

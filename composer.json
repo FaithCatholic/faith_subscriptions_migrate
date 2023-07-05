@@ -1,0 +1,14 @@
+{
+    "name": "faithcatholic/faith_subscriptions_migrate",
+    "description": "Provides migrations for nodes and other entities.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Nicholas Ketchum",
+            "email": "nketchum@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
