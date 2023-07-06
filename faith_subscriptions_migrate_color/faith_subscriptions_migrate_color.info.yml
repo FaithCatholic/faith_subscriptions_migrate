@@ -1,8 +1,0 @@
-name: Faith Subscriptions Migrate Color
-type: module
-description: Provides additional functionality for the site.
-package: Faith subscriptions migrate
-core_version_requirement: ^9 || ^10
-dependencies:
-  - faithcatholic:faith_subscriptions_migrate
-  - drupal:structure_sync

@@ -1,0 +1,7 @@
+faith_subscriptions_migrate.settings:
+  type: config_object
+  label: 'Google Sheets API token'
+  mapping:
+    api_token:
+      type: string
+      label: 'Google Sheets API token'

@@ -11,7 +11,7 @@ label: 'Import homily'
 source:
   plugin: url
   data_fetcher_plugin: http
-  data_parser_plugin: google_sheets
+  data_parser_plugin: faith_subscriptions_google_sheets
   urls: 'https://sheets.googleapis.com/v4/spreadsheets/1aab_YsaI8iuCpXiufxLns1B5yNedd4YzKpltYlHtMh0/values/migrate_2023_q1_q2_homily?alt=json&key=GOOGLE_SHEETS_API_KEY'
   fields:
     -

@@ -1,0 +1,7 @@
+faith_subscriptions_migrate.settings:
+  title: 'API settings'
+  route_name: faith_subscriptions_migrate.settings
+  description: 'Set the API token for Google Sheets.'
+  parent: migrate_tools.menu
+  menu_name: admin
+  weight: 99

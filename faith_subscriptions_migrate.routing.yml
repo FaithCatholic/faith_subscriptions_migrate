@@ -1,0 +1,9 @@
+faith_subscriptions_migrate.settings:
+  path: '/admin/structure/migrate/faith-subscriptions-api-token'
+  defaults:
+    _form: '\Drupal\faith_subscriptions_migrate\Form\SettingsForm'
+    _title: 'Faith Subscriptions migrate settings'
+  requirements:
+    _permission: 'administer site configuration'
+  options:
+    _admin_route: TRUE
