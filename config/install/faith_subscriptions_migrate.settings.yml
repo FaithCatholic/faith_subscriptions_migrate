@@ -1,1 +1,6 @@
 api_token: 'GOOGLE_SHEETS_API_KEY'
+commentary_sheet_url: ''
+commentary_es_sheet_url: ''
+growgo_sheet_url: ''
+homily_sheet_url: ''
+lectionary_sheet_url: ''

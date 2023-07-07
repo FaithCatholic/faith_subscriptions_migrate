@@ -4,4 +4,19 @@ faith_subscriptions_migrate.settings:
   mapping:
     api_token:
       type: string
-      label: 'Google Sheets API token'
+      label: 'API token for sheets.googleapis.com'
+    commentary_sheet_url:
+      type: string
+      label: 'Url for Commentary sheet at sheets.googleapis.com'
+    commentary_es_sheet_url:
+      type: string
+      label: 'Url for Commentary (es) sheet at sheets.googleapis.com'
+    growgo_sheet_url:
+      type: string
+      label: 'Url for Grow+Go sheet at sheets.googleapis.com'
+    homily_sheet_url:
+      type: string
+      label: 'Url for Homily sheet at sheets.googleapis.com'
+    lectionary_sheet_url:
+      type: string
+      label: 'Url for Lectionary sheet at sheets.googleapis.com'
