@@ -49,10 +49,10 @@ class SettingsForm extends ConfigFormBase {
       '#placeholder' => $this->t('https://sheets.googleapis.com/v4/spreadsheets/SPREADSHEET_ID/values/SHEET_NAME'),
     );
 
-    $form['commentary_sheet_es_url'] = array(
+    $form['commentary_es_sheet_url'] = array(
       '#type' => 'textarea',
       '#title' => $this->t('Commentary (Spanish) sheet url'),
-      '#default_value' => $config->get('commentary_sheet_es_url') ? $config->get('commentary_sheet_es_url') : '',
+      '#default_value' => $config->get('commentary_es_sheet_url') ? $config->get('commentary_es_sheet_url') : '',
       '#description' => $this->t('Enter the url for Commentary (es) sheet at sheets.googleapis.com. Do not include the "key" parameter.'),
       '#placeholder' => $this->t('https://sheets.googleapis.com/v4/spreadsheets/SPREADSHEET_ID/values/SHEET_NAME'),
     );
